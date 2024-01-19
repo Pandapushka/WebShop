@@ -1,0 +1,255 @@
+C:\Users\andre\OneDrive\Рабочий стол\OnlineShop_Asp.Net Core\OnlineShop\OnlineShopWebApp\bin\Debug\net5.0\appsettings.Development.json
+C:\Users\andre\OneDrive\Рабочий стол\OnlineShop_Asp.Net Core\OnlineShop\OnlineShopWebApp\bin\Debug\net5.0\appsettings.json
+C:\Users\andre\OneDrive\Рабочий стол\OnlineShop_Asp.Net Core\OnlineShop\OnlineShopWebApp\bin\Debug\net5.0\OnlineShopWebApp.exe
+C:\Users\andre\OneDrive\Рабочий стол\OnlineShop_Asp.Net Core\OnlineShop\OnlineShopWebApp\bin\Debug\net5.0\OnlineShopWebApp.deps.json
+C:\Users\andre\OneDrive\Рабочий стол\OnlineShop_Asp.Net Core\OnlineShop\OnlineShopWebApp\bin\Debug\net5.0\OnlineShopWebApp.runtimeconfig.json
+C:\Users\andre\OneDrive\Рабочий стол\OnlineShop_Asp.Net Core\OnlineShop\OnlineShopWebApp\bin\Debug\net5.0\OnlineShopWebApp.runtimeconfig.dev.json
+C:\Users\andre\OneDrive\Рабочий стол\OnlineShop_Asp.Net Core\OnlineShop\OnlineShopWebApp\bin\Debug\net5.0\OnlineShopWebApp.dll
+C:\Users\andre\OneDrive\Рабочий стол\OnlineShop_Asp.Net Core\OnlineShop\OnlineShopWebApp\bin\Debug\net5.0\OnlineShopWebApp.pdb
+C:\Users\andre\OneDrive\Рабочий стол\OnlineShop_Asp.Net Core\OnlineShop\OnlineShopWebApp\bin\Debug\net5.0\OnlineShopWebApp.Views.dll
+C:\Users\andre\OneDrive\Рабочий стол\OnlineShop_Asp.Net Core\OnlineShop\OnlineShopWebApp\bin\Debug\net5.0\OnlineShopWebApp.Views.pdb
+C:\Users\andre\OneDrive\Рабочий стол\OnlineShop_Asp.Net Core\OnlineShop\OnlineShopWebApp\obj\Debug\net5.0\OnlineShopWebApp.csproj.AssemblyReference.cache
+C:\Users\andre\OneDrive\Рабочий стол\OnlineShop_Asp.Net Core\OnlineShop\OnlineShopWebApp\obj\Debug\net5.0\OnlineShopWebApp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\andre\OneDrive\Рабочий стол\OnlineShop_Asp.Net Core\OnlineShop\OnlineShopWebApp\obj\Debug\net5.0\OnlineShopWebApp.AssemblyInfoInputs.cache
+C:\Users\andre\OneDrive\Рабочий стол\OnlineShop_Asp.Net Core\OnlineShop\OnlineShopWebApp\obj\Debug\net5.0\OnlineShopWebApp.AssemblyInfo.cs
+C:\Users\andre\OneDrive\Рабочий стол\OnlineShop_Asp.Net Core\OnlineShop\OnlineShopWebApp\obj\Debug\net5.0\OnlineShopWebApp.csproj.CoreCompileInputs.cache
+C:\Users\andre\OneDrive\Рабочий стол\OnlineShop_Asp.Net Core\OnlineShop\OnlineShopWebApp\obj\Debug\net5.0\OnlineShopWebApp.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\andre\OneDrive\Рабочий стол\OnlineShop_Asp.Net Core\OnlineShop\OnlineShopWebApp\obj\Debug\net5.0\OnlineShopWebApp.RazorAssemblyInfo.cache
+C:\Users\andre\OneDrive\Рабочий стол\OnlineShop_Asp.Net Core\OnlineShop\OnlineShopWebApp\obj\Debug\net5.0\OnlineShopWebApp.RazorAssemblyInfo.cs
+C:\Users\andre\OneDrive\Рабочий стол\OnlineShop_Asp.Net Core\OnlineShop\OnlineShopWebApp\obj\Debug\net5.0\scopedcss\bundle\OnlineShopWebApp.styles.css
+C:\Users\andre\OneDrive\Рабочий стол\OnlineShop_Asp.Net Core\OnlineShop\OnlineShopWebApp\obj\Debug\net5.0\staticwebassets\OnlineShopWebApp.StaticWebAssets.Manifest.cache
+C:\Users\andre\OneDrive\Рабочий стол\OnlineShop_Asp.Net Core\OnlineShop\OnlineShopWebApp\obj\Debug\net5.0\OnlineShopWebApp.TagHelpers.input.cache
+C:\Users\andre\OneDrive\Рабочий стол\OnlineShop_Asp.Net Core\OnlineShop\OnlineShopWebApp\obj\Debug\net5.0\OnlineShopWebApp.TagHelpers.output.cache
+C:\Users\andre\OneDrive\Рабочий стол\OnlineShop_Asp.Net Core\OnlineShop\OnlineShopWebApp\obj\Debug\net5.0\OnlineShopWebApp.RazorCoreGenerate.cache
+C:\Users\andre\OneDrive\Рабочий стол\OnlineShop_Asp.Net Core\OnlineShop\OnlineShopWebApp\obj\Debug\net5.0\Razor\Views\Home\Index.cshtml.g.cs
+C:\Users\andre\OneDrive\Рабочий стол\OnlineShop_Asp.Net Core\OnlineShop\OnlineShopWebApp\obj\Debug\net5.0\Razor\Views\Home\Privacy.cshtml.g.cs
+C:\Users\andre\OneDrive\Рабочий стол\OnlineShop_Asp.Net Core\OnlineShop\OnlineShopWebApp\obj\Debug\net5.0\Razor\Views\Shared\_Layout.cshtml.g.cs
+C:\Users\andre\OneDrive\Рабочий стол\OnlineShop_Asp.Net Core\OnlineShop\OnlineShopWebApp\obj\Debug\net5.0\Razor\Views\Shared\_ValidationScriptsPartial.cshtml.g.cs
+C:\Users\andre\OneDrive\Рабочий стол\OnlineShop_Asp.Net Core\OnlineShop\OnlineShopWebApp\obj\Debug\net5.0\Razor\Views\_ViewImports.cshtml.g.cs
+C:\Users\andre\OneDrive\Рабочий стол\OnlineShop_Asp.Net Core\OnlineShop\OnlineShopWebApp\obj\Debug\net5.0\Razor\Views\_ViewStart.cshtml.g.cs
+C:\Users\andre\OneDrive\Рабочий стол\OnlineShop_Asp.Net Core\OnlineShop\OnlineShopWebApp\obj\Debug\net5.0\OnlineShopWebApp.RazorTargetAssemblyInfo.cache
+C:\Users\andre\OneDrive\Рабочий стол\OnlineShop_Asp.Net Core\OnlineShop\OnlineShopWebApp\obj\Debug\net5.0\OnlineShopWebApp.RazorTargetAssemblyInfo.cs
+C:\Users\andre\OneDrive\Рабочий стол\OnlineShop_Asp.Net Core\OnlineShop\OnlineShopWebApp\obj\Debug\net5.0\OnlineShopWebApp.Views.pdb
+C:\Users\andre\OneDrive\Рабочий стол\OnlineShop_Asp.Net Core\OnlineShop\OnlineShopWebApp\obj\Debug\net5.0\OnlineShopWebApp.dll
+C:\Users\andre\OneDrive\Рабочий стол\OnlineShop_Asp.Net Core\OnlineShop\OnlineShopWebApp\obj\Debug\net5.0\refint\OnlineShopWebApp.dll
+C:\Users\andre\OneDrive\Рабочий стол\OnlineShop_Asp.Net Core\OnlineShop\OnlineShopWebApp\obj\Debug\net5.0\OnlineShopWebApp.pdb
+C:\Users\andre\OneDrive\Рабочий стол\OnlineShop_Asp.Net Core\OnlineShop\OnlineShopWebApp\obj\Debug\net5.0\OnlineShopWebApp.genruntimeconfig.cache
+C:\Users\andre\OneDrive\Рабочий стол\OnlineShop_Asp.Net Core\OnlineShop\OnlineShopWebApp\obj\Debug\net5.0\ref\OnlineShopWebApp.dll
+C:\Users\andre\OneDrive\Рабочий стол\OnlineShop_Asp.Net Core\OnlineShop\OnlineShopWebApp\obj\Debug\net5.0\OnlineShopWebApp.csproj.CopyComplete
+C:\Users\andre\OneDrive\Рабочий стол\OnlineShop_Asp.Net Core\OnlineShop\OnlineShopWebApp\obj\Debug\net5.0\Razor\Views\Product\Index.cshtml.g.cs
+C:\Users\andre\OneDrive\Рабочий стол\OnlineShop_Asp.Net Core\OnlineShop\OnlineShopWebApp\obj\Debug\net5.0\Razor\Views\Cart\Index.cshtml.g.cs
+C:\Users\andre\OneDrive\Рабочий стол\OnlineShop_Asp.Net Core\OnlineShop\OnlineShopWebApp\obj\Debug\net5.0\Razor\Views\Order\Index.cshtml.g.cs
+C:\Users\andre\OneDrive\Рабочий стол\OnlineShop_Asp.Net Core\OnlineShop\OnlineShopWebApp\obj\Debug\net5.0\Razor\Views\Order\Success.cshtml.g.cs
+C:\Users\andre\OneDrive\Рабочий стол\OnlineShop_Asp.Net Core\OnlineShop\OnlineShopWebApp\obj\Debug\net5.0\Razor\Views\Shared\Components\Cart\Cart.cshtml.g.cs
+C:\Users\andre\OneDrive\Рабочий стол\OnlineShop_Asp.Net Core\OnlineShop\OnlineShopWebApp\obj\Debug\net5.0\Razor\Views\Shared\Footer.cshtml.g.cs
+C:\Users\andre\OneDrive\Рабочий стол\OnlineShop_Asp.Net Core\OnlineShop\OnlineShopWebApp\obj\Debug\net5.0\Razor\Views\Shared\Header.cshtml.g.cs
+C:\Users\andre\OneDrive\Рабочий стол\OnlineShop_Asp.Net Core\OnlineShop\OnlineShopWebApp\obj\Debug\net5.0\Razor\Views\Login\Index.cshtml.g.cs
+C:\Users\andre\OneDrive\Рабочий стол\OnlineShop_Asp.Net Core\OnlineShop\OnlineShopWebApp\obj\Debug\net5.0\Razor\Views\Login\Registration.cshtml.g.cs
+C:\Users\andre\OneDrive\Рабочий стол\OnlineShop_Asp.Net Core\OnlineShop\OnlineShopWebApp\bin\Debug\net5.0\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\andre\OneDrive\Рабочий стол\OnlineShop_Asp.Net Core\OnlineShop\OnlineShopWebApp\bin\Debug\net5.0\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\andre\OneDrive\Рабочий стол\OnlineShop_Asp.Net Core\OnlineShop\OnlineShopWebApp\bin\Debug\net5.0\Microsoft.Extensions.Configuration.Binder.dll
+C:\Users\andre\OneDrive\Рабочий стол\OnlineShop_Asp.Net Core\OnlineShop\OnlineShopWebApp\bin\Debug\net5.0\Microsoft.Extensions.DependencyModel.dll
+C:\Users\andre\OneDrive\Рабочий стол\OnlineShop_Asp.Net Core\OnlineShop\OnlineShopWebApp\bin\Debug\net5.0\Microsoft.Extensions.Primitives.dll
+C:\Users\andre\OneDrive\Рабочий стол\OnlineShop_Asp.Net Core\OnlineShop\OnlineShopWebApp\bin\Debug\net5.0\Serilog.dll
+C:\Users\andre\OneDrive\Рабочий стол\OnlineShop_Asp.Net Core\OnlineShop\OnlineShopWebApp\bin\Debug\net5.0\Serilog.AspNetCore.dll
+C:\Users\andre\OneDrive\Рабочий стол\OnlineShop_Asp.Net Core\OnlineShop\OnlineShopWebApp\bin\Debug\net5.0\Serilog.Enrichers.Environment.dll
+C:\Users\andre\OneDrive\Рабочий стол\OnlineShop_Asp.Net Core\OnlineShop\OnlineShopWebApp\bin\Debug\net5.0\Serilog.Enrichers.Process.dll
+C:\Users\andre\OneDrive\Рабочий стол\OnlineShop_Asp.Net Core\OnlineShop\OnlineShopWebApp\bin\Debug\net5.0\Serilog.Enrichers.Thread.dll
+C:\Users\andre\OneDrive\Рабочий стол\OnlineShop_Asp.Net Core\OnlineShop\OnlineShopWebApp\bin\Debug\net5.0\Serilog.Extensions.Hosting.dll
+C:\Users\andre\OneDrive\Рабочий стол\OnlineShop_Asp.Net Core\OnlineShop\OnlineShopWebApp\bin\Debug\net5.0\Serilog.Extensions.Logging.dll
+C:\Users\andre\OneDrive\Рабочий стол\OnlineShop_Asp.Net Core\OnlineShop\OnlineShopWebApp\bin\Debug\net5.0\Serilog.Formatting.Compact.dll
+C:\Users\andre\OneDrive\Рабочий стол\OnlineShop_Asp.Net Core\OnlineShop\OnlineShopWebApp\bin\Debug\net5.0\Serilog.Settings.Configuration.dll
+C:\Users\andre\OneDrive\Рабочий стол\OnlineShop_Asp.Net Core\OnlineShop\OnlineShopWebApp\bin\Debug\net5.0\Serilog.Sinks.Console.dll
+C:\Users\andre\OneDrive\Рабочий стол\OnlineShop_Asp.Net Core\OnlineShop\OnlineShopWebApp\bin\Debug\net5.0\Serilog.Sinks.Debug.dll
+C:\Users\andre\OneDrive\Рабочий стол\OnlineShop_Asp.Net Core\OnlineShop\OnlineShopWebApp\bin\Debug\net5.0\Serilog.Sinks.File.dll
+C:\Users\andre\OneDrive\Рабочий стол\OnlineShop_Asp.Net Core\OnlineShop\OnlineShopWebApp\bin\Debug\net5.0\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\andre\OneDrive\Рабочий стол\OnlineShop_Asp.Net Core\OnlineShop\OnlineShopWebApp\bin\Debug\net5.0\System.Text.Encodings.Web.dll
+C:\Users\andre\OneDrive\Рабочий стол\OnlineShop_Asp.Net Core\OnlineShop\OnlineShopWebApp\bin\Debug\net5.0\System.Text.Json.dll
+C:\Users\andre\OneDrive\Рабочий стол\OnlineShop_Asp.Net Core\OnlineShop\OnlineShopWebApp\bin\Debug\net5.0\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\andre\OneDrive\Рабочий стол\OnlineShop_Asp.Net Core\OnlineShop\OnlineShopWebApp\bin\Debug\net5.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\andre\OneDrive\Рабочий стол\OnlineShop_Asp.Net Core\OnlineShop\OnlineShopWebApp\bin\Debug\net5.0\Microsoft.Extensions.FileProviders.Abstractions.dll
+C:\Users\andre\OneDrive\Рабочий стол\OnlineShop_Asp.Net Core\OnlineShop\OnlineShopWebApp\bin\Debug\net5.0\Microsoft.Extensions.Hosting.Abstractions.dll
+C:\Users\andre\OneDrive\Рабочий стол\OnlineShop_Asp.Net Core\OnlineShop\OnlineShopWebApp\bin\Debug\net5.0\Microsoft.Extensions.Logging.dll
+C:\Users\andre\OneDrive\Рабочий стол\OnlineShop_Asp.Net Core\OnlineShop\OnlineShopWebApp\bin\Debug\net5.0\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\andre\OneDrive\Рабочий стол\OnlineShop_Asp.Net Core\OnlineShop\OnlineShopWebApp\bin\Debug\net5.0\Microsoft.Extensions.Options.dll
+C:\Users\andre\OneDrive\Рабочий стол\OnlineShop_Asp.Net Core\OnlineShop\OnlineShopWebApp\bin\Debug\net5.0\System.Diagnostics.DiagnosticSource.dll
+C:\Users\andre\OneDrive\Рабочий стол\OnlineShop_Asp.Net Core\OnlineShop\OnlineShopWebApp\obj\Debug\net5.0\Razor\Areas\Admin\Views\Order\OrderDetails.cshtml.g.cs
+C:\Users\andre\OneDrive\Рабочий стол\OnlineShop_Asp.Net Core\OnlineShop\OnlineShopWebApp\obj\Debug\net5.0\Razor\Areas\Admin\Views\Order\Orders.cshtml.g.cs
+C:\Users\andre\OneDrive\Рабочий стол\OnlineShop_Asp.Net Core\OnlineShop\OnlineShopWebApp\obj\Debug\net5.0\Razor\Areas\Admin\Views\Product\Products.cshtml.g.cs
+C:\Users\andre\OneDrive\Рабочий стол\OnlineShop_Asp.Net Core\OnlineShop\OnlineShopWebApp\obj\Debug\net5.0\Razor\Areas\Admin\Views\Role\Roles.cshtml.g.cs
+C:\Users\andre\OneDrive\Рабочий стол\OnlineShop_Asp.Net Core\OnlineShop\OnlineShopWebApp\obj\Debug\net5.0\Razor\Areas\Admin\Views\Shared\AdminLeftMenu.cshtml.g.cs
+C:\Users\andre\OneDrive\Рабочий стол\OnlineShop_Asp.Net Core\OnlineShop\OnlineShopWebApp\obj\Debug\net5.0\Razor\Areas\Admin\Views\User\Users.cshtml.g.cs
+C:\Users\andre\OneDrive\Рабочий стол\OnlineShop_Asp.Net Core\OnlineShop\OnlineShopWebApp\obj\Debug\net5.0\Razor\Areas\Admin\Views\_ViewImports.cshtml.g.cs
+C:\Users\andre\OneDrive\Рабочий стол\OnlineShop_Asp.Net Core\OnlineShop\OnlineShopWebApp\obj\Debug\net5.0\Razor\Areas\Admin\Views\_ViewStart.cshtml.g.cs
+C:\Users\andre\OneDrive\Рабочий стол\OnlineShop_Asp.Net Core\OnlineShop\OnlineShopWebApp\obj\Debug\net5.0\Razor\Areas\Admin\Views\User\ChangePassword.cshtml.g.cs
+C:\Users\andre\OneDrive\Рабочий стол\OnlineShop_Asp.Net Core\OnlineShop\OnlineShopWebApp\obj\Debug\net5.0\Razor\Areas\Admin\Views\User\Details.cshtml.g.cs
+C:\Users\andre\OneDrive\Рабочий стол\OnlineShop_Asp.Net Core\OnlineShop\OnlineShopWebApp\bin\Debug\net5.0\Microsoft.Data.SqlClient.dll
+C:\Users\andre\OneDrive\Рабочий стол\OnlineShop_Asp.Net Core\OnlineShop\OnlineShopWebApp\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\andre\OneDrive\Рабочий стол\OnlineShop_Asp.Net Core\OnlineShop\OnlineShopWebApp\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\andre\OneDrive\Рабочий стол\OnlineShop_Asp.Net Core\OnlineShop\OnlineShopWebApp\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\andre\OneDrive\Рабочий стол\OnlineShop_Asp.Net Core\OnlineShop\OnlineShopWebApp\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\andre\OneDrive\Рабочий стол\OnlineShop_Asp.Net Core\OnlineShop\OnlineShopWebApp\bin\Debug\net5.0\Microsoft.Identity.Client.dll
+C:\Users\andre\OneDrive\Рабочий стол\OnlineShop_Asp.Net Core\OnlineShop\OnlineShopWebApp\bin\Debug\net5.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\andre\OneDrive\Рабочий стол\OnlineShop_Asp.Net Core\OnlineShop\OnlineShopWebApp\bin\Debug\net5.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\andre\OneDrive\Рабочий стол\OnlineShop_Asp.Net Core\OnlineShop\OnlineShopWebApp\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.dll
+C:\Users\andre\OneDrive\Рабочий стол\OnlineShop_Asp.Net Core\OnlineShop\OnlineShopWebApp\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\andre\OneDrive\Рабочий стол\OnlineShop_Asp.Net Core\OnlineShop\OnlineShopWebApp\bin\Debug\net5.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\andre\OneDrive\Рабочий стол\OnlineShop_Asp.Net Core\OnlineShop\OnlineShopWebApp\bin\Debug\net5.0\Newtonsoft.Json.dll
+C:\Users\andre\OneDrive\Рабочий стол\OnlineShop_Asp.Net Core\OnlineShop\OnlineShopWebApp\bin\Debug\net5.0\System.Configuration.ConfigurationManager.dll
+C:\Users\andre\OneDrive\Рабочий стол\OnlineShop_Asp.Net Core\OnlineShop\OnlineShopWebApp\bin\Debug\net5.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\andre\OneDrive\Рабочий стол\OnlineShop_Asp.Net Core\OnlineShop\OnlineShopWebApp\bin\Debug\net5.0\System.Runtime.Caching.dll
+C:\Users\andre\OneDrive\Рабочий стол\OnlineShop_Asp.Net Core\OnlineShop\OnlineShopWebApp\bin\Debug\net5.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\andre\OneDrive\Рабочий стол\OnlineShop_Asp.Net Core\OnlineShop\OnlineShopWebApp\bin\Debug\net5.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\andre\OneDrive\Рабочий стол\OnlineShop_Asp.Net Core\OnlineShop\OnlineShopWebApp\bin\Debug\net5.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\andre\OneDrive\Рабочий стол\OnlineShop_Asp.Net Core\OnlineShop\OnlineShopWebApp\bin\Debug\net5.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\andre\OneDrive\Рабочий стол\OnlineShop_Asp.Net Core\OnlineShop\OnlineShopWebApp\bin\Debug\net5.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\andre\OneDrive\Рабочий стол\OnlineShop_Asp.Net Core\OnlineShop\OnlineShopWebApp\bin\Debug\net5.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\andre\OneDrive\Рабочий стол\OnlineShop_Asp.Net Core\OnlineShop\OnlineShopWebApp\bin\Debug\net5.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\andre\OneDrive\Рабочий стол\OnlineShop_Asp.Net Core\OnlineShop\OnlineShopWebApp\bin\Debug\net5.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\andre\OneDrive\Рабочий стол\OnlineShop_Asp.Net Core\OnlineShop\OnlineShopWebApp\bin\Debug\net5.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\andre\OneDrive\Рабочий стол\OnlineShop_Asp.Net Core\OnlineShop\OnlineShopWebApp\bin\Debug\net5.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\andre\OneDrive\Рабочий стол\OnlineShop_Asp.Net Core\OnlineShop\OnlineShopWebApp\bin\Debug\net5.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\andre\OneDrive\Рабочий стол\OnlineShop_Asp.Net Core\OnlineShop\OnlineShopWebApp\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+C:\Users\andre\OneDrive\Рабочий стол\OnlineShop_Asp.Net Core\OnlineShop\OnlineShopWebApp\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\andre\OneDrive\Рабочий стол\OnlineShop_Asp.Net Core\OnlineShop\OnlineShopWebApp\bin\Debug\net5.0\OnlineShop.Db.dll
+C:\Users\andre\OneDrive\Рабочий стол\OnlineShop_Asp.Net Core\OnlineShop\OnlineShopWebApp\bin\Debug\net5.0\OnlineShop.Db.pdb
+C:\Users\andre\OneDrive\Рабочий стол\OnlineShop_Asp.Net Core\OnlineShop\OnlineShopWebApp\obj\Debug\net5.0\Razor\Areas\Admin\Views\Product\Add.cshtml.g.cs
+C:\Users\andre\OneDrive\Рабочий стол\OnlineShop_Asp.Net Core\OnlineShop\OnlineShopWebApp\obj\Debug\net5.0\Razor\Areas\Admin\Views\Product\Edit.cshtml.g.cs
+C:\Users\andre\OneDrive\Рабочий стол\OnlineShop_Asp.Net Core\OnlineShop\OnlineShopWebApp\obj\Debug\net5.0\Razor\Areas\Admin\Views\Role\Add.cshtml.g.cs
+C:\Users\andre\OneDrive\Рабочий стол\OnlineShop_Asp.Net Core\OnlineShop\OnlineShopWebApp\bin\Debug\net5.0\Humanizer.dll
+C:\Users\andre\OneDrive\Рабочий стол\OnlineShop_Asp.Net Core\OnlineShop\OnlineShopWebApp\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\andre\OneDrive\Рабочий стол\OnlineShop_Asp.Net Core\OnlineShop\OnlineShopWebApp\bin\Debug\net5.0\Microsoft.AspNetCore.Cryptography.Internal.dll
+C:\Users\andre\OneDrive\Рабочий стол\OnlineShop_Asp.Net Core\OnlineShop\OnlineShopWebApp\bin\Debug\net5.0\Microsoft.AspNetCore.Cryptography.KeyDerivation.dll
+C:\Users\andre\OneDrive\Рабочий стол\OnlineShop_Asp.Net Core\OnlineShop\OnlineShopWebApp\bin\Debug\net5.0\Microsoft.AspNetCore.Identity.EntityFrameworkCore.dll
+C:\Users\andre\OneDrive\Рабочий стол\OnlineShop_Asp.Net Core\OnlineShop\OnlineShopWebApp\bin\Debug\net5.0\Microsoft.Extensions.Identity.Core.dll
+C:\Users\andre\OneDrive\Рабочий стол\OnlineShop_Asp.Net Core\OnlineShop\OnlineShopWebApp\bin\Debug\net5.0\Microsoft.Extensions.Identity.Stores.dll
+C:\Users\andre\OneDrive\Рабочий стол\OnlineShop_Asp.Net Core\OnlineShop\OnlineShopWebApp\bin\Debug\net5.0\logs\log-20240110.json
+C:\Users\andre\OneDrive\Рабочий стол\OnlineShop_Asp.Net Core\OnlineShop\OnlineShopWebApp\bin\Debug\net5.0\logs\log-20240111.json
+C:\Users\andre\OneDrive\Рабочий стол\Проект для собедования\WebShop\OnlineShop\OnlineShopWebApp\bin\Debug\net5.0\appsettings.Development.json
+C:\Users\andre\OneDrive\Рабочий стол\Проект для собедования\WebShop\OnlineShop\OnlineShopWebApp\bin\Debug\net5.0\appsettings.json
+C:\Users\andre\OneDrive\Рабочий стол\Проект для собедования\WebShop\OnlineShop\OnlineShopWebApp\bin\Debug\net5.0\logs\log-20240110.json
+C:\Users\andre\OneDrive\Рабочий стол\Проект для собедования\WebShop\OnlineShop\OnlineShopWebApp\bin\Debug\net5.0\logs\log-20240111.json
+C:\Users\andre\OneDrive\Рабочий стол\Проект для собедования\WebShop\OnlineShop\OnlineShopWebApp\bin\Debug\net5.0\OnlineShopWebApp.exe
+C:\Users\andre\OneDrive\Рабочий стол\Проект для собедования\WebShop\OnlineShop\OnlineShopWebApp\bin\Debug\net5.0\OnlineShopWebApp.deps.json
+C:\Users\andre\OneDrive\Рабочий стол\Проект для собедования\WebShop\OnlineShop\OnlineShopWebApp\bin\Debug\net5.0\OnlineShopWebApp.runtimeconfig.json
+C:\Users\andre\OneDrive\Рабочий стол\Проект для собедования\WebShop\OnlineShop\OnlineShopWebApp\bin\Debug\net5.0\OnlineShopWebApp.runtimeconfig.dev.json
+C:\Users\andre\OneDrive\Рабочий стол\Проект для собедования\WebShop\OnlineShop\OnlineShopWebApp\bin\Debug\net5.0\OnlineShopWebApp.dll
+C:\Users\andre\OneDrive\Рабочий стол\Проект для собедования\WebShop\OnlineShop\OnlineShopWebApp\bin\Debug\net5.0\OnlineShopWebApp.pdb
+C:\Users\andre\OneDrive\Рабочий стол\Проект для собедования\WebShop\OnlineShop\OnlineShopWebApp\bin\Debug\net5.0\OnlineShopWebApp.Views.dll
+C:\Users\andre\OneDrive\Рабочий стол\Проект для собедования\WebShop\OnlineShop\OnlineShopWebApp\bin\Debug\net5.0\OnlineShopWebApp.Views.pdb
+C:\Users\andre\OneDrive\Рабочий стол\Проект для собедования\WebShop\OnlineShop\OnlineShopWebApp\bin\Debug\net5.0\Humanizer.dll
+C:\Users\andre\OneDrive\Рабочий стол\Проект для собедования\WebShop\OnlineShop\OnlineShopWebApp\bin\Debug\net5.0\Microsoft.AspNetCore.Cryptography.Internal.dll
+C:\Users\andre\OneDrive\Рабочий стол\Проект для собедования\WebShop\OnlineShop\OnlineShopWebApp\bin\Debug\net5.0\Microsoft.AspNetCore.Cryptography.KeyDerivation.dll
+C:\Users\andre\OneDrive\Рабочий стол\Проект для собедования\WebShop\OnlineShop\OnlineShopWebApp\bin\Debug\net5.0\Microsoft.AspNetCore.Identity.EntityFrameworkCore.dll
+C:\Users\andre\OneDrive\Рабочий стол\Проект для собедования\WebShop\OnlineShop\OnlineShopWebApp\bin\Debug\net5.0\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\andre\OneDrive\Рабочий стол\Проект для собедования\WebShop\OnlineShop\OnlineShopWebApp\bin\Debug\net5.0\Microsoft.Data.SqlClient.dll
+C:\Users\andre\OneDrive\Рабочий стол\Проект для собедования\WebShop\OnlineShop\OnlineShopWebApp\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\andre\OneDrive\Рабочий стол\Проект для собедования\WebShop\OnlineShop\OnlineShopWebApp\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\andre\OneDrive\Рабочий стол\Проект для собедования\WebShop\OnlineShop\OnlineShopWebApp\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\andre\OneDrive\Рабочий стол\Проект для собедования\WebShop\OnlineShop\OnlineShopWebApp\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\andre\OneDrive\Рабочий стол\Проект для собедования\WebShop\OnlineShop\OnlineShopWebApp\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\andre\OneDrive\Рабочий стол\Проект для собедования\WebShop\OnlineShop\OnlineShopWebApp\bin\Debug\net5.0\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\andre\OneDrive\Рабочий стол\Проект для собедования\WebShop\OnlineShop\OnlineShopWebApp\bin\Debug\net5.0\Microsoft.Extensions.Configuration.Binder.dll
+C:\Users\andre\OneDrive\Рабочий стол\Проект для собедования\WebShop\OnlineShop\OnlineShopWebApp\bin\Debug\net5.0\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\andre\OneDrive\Рабочий стол\Проект для собедования\WebShop\OnlineShop\OnlineShopWebApp\bin\Debug\net5.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\andre\OneDrive\Рабочий стол\Проект для собедования\WebShop\OnlineShop\OnlineShopWebApp\bin\Debug\net5.0\Microsoft.Extensions.DependencyModel.dll
+C:\Users\andre\OneDrive\Рабочий стол\Проект для собедования\WebShop\OnlineShop\OnlineShopWebApp\bin\Debug\net5.0\Microsoft.Extensions.FileProviders.Abstractions.dll
+C:\Users\andre\OneDrive\Рабочий стол\Проект для собедования\WebShop\OnlineShop\OnlineShopWebApp\bin\Debug\net5.0\Microsoft.Extensions.Hosting.Abstractions.dll
+C:\Users\andre\OneDrive\Рабочий стол\Проект для собедования\WebShop\OnlineShop\OnlineShopWebApp\bin\Debug\net5.0\Microsoft.Extensions.Identity.Core.dll
+C:\Users\andre\OneDrive\Рабочий стол\Проект для собедования\WebShop\OnlineShop\OnlineShopWebApp\bin\Debug\net5.0\Microsoft.Extensions.Identity.Stores.dll
+C:\Users\andre\OneDrive\Рабочий стол\Проект для собедования\WebShop\OnlineShop\OnlineShopWebApp\bin\Debug\net5.0\Microsoft.Extensions.Logging.dll
+C:\Users\andre\OneDrive\Рабочий стол\Проект для собедования\WebShop\OnlineShop\OnlineShopWebApp\bin\Debug\net5.0\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\andre\OneDrive\Рабочий стол\Проект для собедования\WebShop\OnlineShop\OnlineShopWebApp\bin\Debug\net5.0\Microsoft.Extensions.Options.dll
+C:\Users\andre\OneDrive\Рабочий стол\Проект для собедования\WebShop\OnlineShop\OnlineShopWebApp\bin\Debug\net5.0\Microsoft.Extensions.Primitives.dll
+C:\Users\andre\OneDrive\Рабочий стол\Проект для собедования\WebShop\OnlineShop\OnlineShopWebApp\bin\Debug\net5.0\Microsoft.Identity.Client.dll
+C:\Users\andre\OneDrive\Рабочий стол\Проект для собедования\WebShop\OnlineShop\OnlineShopWebApp\bin\Debug\net5.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\andre\OneDrive\Рабочий стол\Проект для собедования\WebShop\OnlineShop\OnlineShopWebApp\bin\Debug\net5.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\andre\OneDrive\Рабочий стол\Проект для собедования\WebShop\OnlineShop\OnlineShopWebApp\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.dll
+C:\Users\andre\OneDrive\Рабочий стол\Проект для собедования\WebShop\OnlineShop\OnlineShopWebApp\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\andre\OneDrive\Рабочий стол\Проект для собедования\WebShop\OnlineShop\OnlineShopWebApp\bin\Debug\net5.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\andre\OneDrive\Рабочий стол\Проект для собедования\WebShop\OnlineShop\OnlineShopWebApp\bin\Debug\net5.0\Newtonsoft.Json.dll
+C:\Users\andre\OneDrive\Рабочий стол\Проект для собедования\WebShop\OnlineShop\OnlineShopWebApp\bin\Debug\net5.0\Serilog.dll
+C:\Users\andre\OneDrive\Рабочий стол\Проект для собедования\WebShop\OnlineShop\OnlineShopWebApp\bin\Debug\net5.0\Serilog.AspNetCore.dll
+C:\Users\andre\OneDrive\Рабочий стол\Проект для собедования\WebShop\OnlineShop\OnlineShopWebApp\bin\Debug\net5.0\Serilog.Enrichers.Environment.dll
+C:\Users\andre\OneDrive\Рабочий стол\Проект для собедования\WebShop\OnlineShop\OnlineShopWebApp\bin\Debug\net5.0\Serilog.Enrichers.Process.dll
+C:\Users\andre\OneDrive\Рабочий стол\Проект для собедования\WebShop\OnlineShop\OnlineShopWebApp\bin\Debug\net5.0\Serilog.Enrichers.Thread.dll
+C:\Users\andre\OneDrive\Рабочий стол\Проект для собедования\WebShop\OnlineShop\OnlineShopWebApp\bin\Debug\net5.0\Serilog.Extensions.Hosting.dll
+C:\Users\andre\OneDrive\Рабочий стол\Проект для собедования\WebShop\OnlineShop\OnlineShopWebApp\bin\Debug\net5.0\Serilog.Extensions.Logging.dll
+C:\Users\andre\OneDrive\Рабочий стол\Проект для собедования\WebShop\OnlineShop\OnlineShopWebApp\bin\Debug\net5.0\Serilog.Formatting.Compact.dll
+C:\Users\andre\OneDrive\Рабочий стол\Проект для собедования\WebShop\OnlineShop\OnlineShopWebApp\bin\Debug\net5.0\Serilog.Settings.Configuration.dll
+C:\Users\andre\OneDrive\Рабочий стол\Проект для собедования\WebShop\OnlineShop\OnlineShopWebApp\bin\Debug\net5.0\Serilog.Sinks.Console.dll
+C:\Users\andre\OneDrive\Рабочий стол\Проект для собедования\WebShop\OnlineShop\OnlineShopWebApp\bin\Debug\net5.0\Serilog.Sinks.Debug.dll
+C:\Users\andre\OneDrive\Рабочий стол\Проект для собедования\WebShop\OnlineShop\OnlineShopWebApp\bin\Debug\net5.0\Serilog.Sinks.File.dll
+C:\Users\andre\OneDrive\Рабочий стол\Проект для собедования\WebShop\OnlineShop\OnlineShopWebApp\bin\Debug\net5.0\System.Configuration.ConfigurationManager.dll
+C:\Users\andre\OneDrive\Рабочий стол\Проект для собедования\WebShop\OnlineShop\OnlineShopWebApp\bin\Debug\net5.0\System.Diagnostics.DiagnosticSource.dll
+C:\Users\andre\OneDrive\Рабочий стол\Проект для собедования\WebShop\OnlineShop\OnlineShopWebApp\bin\Debug\net5.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\andre\OneDrive\Рабочий стол\Проект для собедования\WebShop\OnlineShop\OnlineShopWebApp\bin\Debug\net5.0\System.Runtime.Caching.dll
+C:\Users\andre\OneDrive\Рабочий стол\Проект для собедования\WebShop\OnlineShop\OnlineShopWebApp\bin\Debug\net5.0\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\andre\OneDrive\Рабочий стол\Проект для собедования\WebShop\OnlineShop\OnlineShopWebApp\bin\Debug\net5.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\andre\OneDrive\Рабочий стол\Проект для собедования\WebShop\OnlineShop\OnlineShopWebApp\bin\Debug\net5.0\System.Text.Encodings.Web.dll
+C:\Users\andre\OneDrive\Рабочий стол\Проект для собедования\WebShop\OnlineShop\OnlineShopWebApp\bin\Debug\net5.0\System.Text.Json.dll
+C:\Users\andre\OneDrive\Рабочий стол\Проект для собедования\WebShop\OnlineShop\OnlineShopWebApp\bin\Debug\net5.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\andre\OneDrive\Рабочий стол\Проект для собедования\WebShop\OnlineShop\OnlineShopWebApp\bin\Debug\net5.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\andre\OneDrive\Рабочий стол\Проект для собедования\WebShop\OnlineShop\OnlineShopWebApp\bin\Debug\net5.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\andre\OneDrive\Рабочий стол\Проект для собедования\WebShop\OnlineShop\OnlineShopWebApp\bin\Debug\net5.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\andre\OneDrive\Рабочий стол\Проект для собедования\WebShop\OnlineShop\OnlineShopWebApp\bin\Debug\net5.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\andre\OneDrive\Рабочий стол\Проект для собедования\WebShop\OnlineShop\OnlineShopWebApp\bin\Debug\net5.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\andre\OneDrive\Рабочий стол\Проект для собедования\WebShop\OnlineShop\OnlineShopWebApp\bin\Debug\net5.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\andre\OneDrive\Рабочий стол\Проект для собедования\WebShop\OnlineShop\OnlineShopWebApp\bin\Debug\net5.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\andre\OneDrive\Рабочий стол\Проект для собедования\WebShop\OnlineShop\OnlineShopWebApp\bin\Debug\net5.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\andre\OneDrive\Рабочий стол\Проект для собедования\WebShop\OnlineShop\OnlineShopWebApp\bin\Debug\net5.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\andre\OneDrive\Рабочий стол\Проект для собедования\WebShop\OnlineShop\OnlineShopWebApp\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+C:\Users\andre\OneDrive\Рабочий стол\Проект для собедования\WebShop\OnlineShop\OnlineShopWebApp\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\andre\OneDrive\Рабочий стол\Проект для собедования\WebShop\OnlineShop\OnlineShopWebApp\bin\Debug\net5.0\OnlineShop.Db.dll
+C:\Users\andre\OneDrive\Рабочий стол\Проект для собедования\WebShop\OnlineShop\OnlineShopWebApp\bin\Debug\net5.0\OnlineShop.Db.pdb
+C:\Users\andre\OneDrive\Рабочий стол\Проект для собедования\WebShop\OnlineShop\OnlineShopWebApp\obj\Debug\net5.0\OnlineShopWebApp.csproj.AssemblyReference.cache
+C:\Users\andre\OneDrive\Рабочий стол\Проект для собедования\WebShop\OnlineShop\OnlineShopWebApp\obj\Debug\net5.0\OnlineShopWebApp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\andre\OneDrive\Рабочий стол\Проект для собедования\WebShop\OnlineShop\OnlineShopWebApp\obj\Debug\net5.0\OnlineShopWebApp.AssemblyInfoInputs.cache
+C:\Users\andre\OneDrive\Рабочий стол\Проект для собедования\WebShop\OnlineShop\OnlineShopWebApp\obj\Debug\net5.0\OnlineShopWebApp.AssemblyInfo.cs
+C:\Users\andre\OneDrive\Рабочий стол\Проект для собедования\WebShop\OnlineShop\OnlineShopWebApp\obj\Debug\net5.0\OnlineShopWebApp.csproj.CoreCompileInputs.cache
+C:\Users\andre\OneDrive\Рабочий стол\Проект для собедования\WebShop\OnlineShop\OnlineShopWebApp\obj\Debug\net5.0\OnlineShopWebApp.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\andre\OneDrive\Рабочий стол\Проект для собедования\WebShop\OnlineShop\OnlineShopWebApp\obj\Debug\net5.0\OnlineShopWebApp.RazorAssemblyInfo.cache
+C:\Users\andre\OneDrive\Рабочий стол\Проект для собедования\WebShop\OnlineShop\OnlineShopWebApp\obj\Debug\net5.0\OnlineShopWebApp.RazorAssemblyInfo.cs
+C:\Users\andre\OneDrive\Рабочий стол\Проект для собедования\WebShop\OnlineShop\OnlineShopWebApp\obj\Debug\net5.0\scopedcss\bundle\OnlineShopWebApp.styles.css
+C:\Users\andre\OneDrive\Рабочий стол\Проект для собедования\WebShop\OnlineShop\OnlineShopWebApp\obj\Debug\net5.0\staticwebassets\OnlineShopWebApp.StaticWebAssets.Manifest.cache
+C:\Users\andre\OneDrive\Рабочий стол\Проект для собедования\WebShop\OnlineShop\OnlineShopWebApp\obj\Debug\net5.0\OnlineShopWebApp.TagHelpers.input.cache
+C:\Users\andre\OneDrive\Рабочий стол\Проект для собедования\WebShop\OnlineShop\OnlineShopWebApp\obj\Debug\net5.0\OnlineShopWebApp.TagHelpers.output.cache
+C:\Users\andre\OneDrive\Рабочий стол\Проект для собедования\WebShop\OnlineShop\OnlineShopWebApp\obj\Debug\net5.0\OnlineShopWebApp.RazorCoreGenerate.cache
+C:\Users\andre\OneDrive\Рабочий стол\Проект для собедования\WebShop\OnlineShop\OnlineShopWebApp\obj\Debug\net5.0\Razor\Areas\Admin\Views\Order\OrderDetails.cshtml.g.cs
+C:\Users\andre\OneDrive\Рабочий стол\Проект для собедования\WebShop\OnlineShop\OnlineShopWebApp\obj\Debug\net5.0\Razor\Areas\Admin\Views\Order\Orders.cshtml.g.cs
+C:\Users\andre\OneDrive\Рабочий стол\Проект для собедования\WebShop\OnlineShop\OnlineShopWebApp\obj\Debug\net5.0\Razor\Areas\Admin\Views\Product\Add.cshtml.g.cs
+C:\Users\andre\OneDrive\Рабочий стол\Проект для собедования\WebShop\OnlineShop\OnlineShopWebApp\obj\Debug\net5.0\Razor\Areas\Admin\Views\Product\Edit.cshtml.g.cs
+C:\Users\andre\OneDrive\Рабочий стол\Проект для собедования\WebShop\OnlineShop\OnlineShopWebApp\obj\Debug\net5.0\Razor\Areas\Admin\Views\Product\Products.cshtml.g.cs
+C:\Users\andre\OneDrive\Рабочий стол\Проект для собедования\WebShop\OnlineShop\OnlineShopWebApp\obj\Debug\net5.0\Razor\Areas\Admin\Views\Role\Add.cshtml.g.cs
+C:\Users\andre\OneDrive\Рабочий стол\Проект для собедования\WebShop\OnlineShop\OnlineShopWebApp\obj\Debug\net5.0\Razor\Areas\Admin\Views\Role\Roles.cshtml.g.cs
+C:\Users\andre\OneDrive\Рабочий стол\Проект для собедования\WebShop\OnlineShop\OnlineShopWebApp\obj\Debug\net5.0\Razor\Areas\Admin\Views\Shared\AdminLeftMenu.cshtml.g.cs
+C:\Users\andre\OneDrive\Рабочий стол\Проект для собедования\WebShop\OnlineShop\OnlineShopWebApp\obj\Debug\net5.0\Razor\Areas\Admin\Views\User\ChangePassword.cshtml.g.cs
+C:\Users\andre\OneDrive\Рабочий стол\Проект для собедования\WebShop\OnlineShop\OnlineShopWebApp\obj\Debug\net5.0\Razor\Areas\Admin\Views\User\Details.cshtml.g.cs
+C:\Users\andre\OneDrive\Рабочий стол\Проект для собедования\WebShop\OnlineShop\OnlineShopWebApp\obj\Debug\net5.0\Razor\Areas\Admin\Views\User\Users.cshtml.g.cs
+C:\Users\andre\OneDrive\Рабочий стол\Проект для собедования\WebShop\OnlineShop\OnlineShopWebApp\obj\Debug\net5.0\Razor\Areas\Admin\Views\_ViewImports.cshtml.g.cs
+C:\Users\andre\OneDrive\Рабочий стол\Проект для собедования\WebShop\OnlineShop\OnlineShopWebApp\obj\Debug\net5.0\Razor\Areas\Admin\Views\_ViewStart.cshtml.g.cs
+C:\Users\andre\OneDrive\Рабочий стол\Проект для собедования\WebShop\OnlineShop\OnlineShopWebApp\obj\Debug\net5.0\Razor\Views\Cart\Index.cshtml.g.cs
+C:\Users\andre\OneDrive\Рабочий стол\Проект для собедования\WebShop\OnlineShop\OnlineShopWebApp\obj\Debug\net5.0\Razor\Views\Home\Index.cshtml.g.cs
+C:\Users\andre\OneDrive\Рабочий стол\Проект для собедования\WebShop\OnlineShop\OnlineShopWebApp\obj\Debug\net5.0\Razor\Views\Home\Privacy.cshtml.g.cs
+C:\Users\andre\OneDrive\Рабочий стол\Проект для собедования\WebShop\OnlineShop\OnlineShopWebApp\obj\Debug\net5.0\Razor\Views\Login\Index.cshtml.g.cs
+C:\Users\andre\OneDrive\Рабочий стол\Проект для собедования\WebShop\OnlineShop\OnlineShopWebApp\obj\Debug\net5.0\Razor\Views\Login\Registration.cshtml.g.cs
+C:\Users\andre\OneDrive\Рабочий стол\Проект для собедования\WebShop\OnlineShop\OnlineShopWebApp\obj\Debug\net5.0\Razor\Views\Order\Index.cshtml.g.cs
+C:\Users\andre\OneDrive\Рабочий стол\Проект для собедования\WebShop\OnlineShop\OnlineShopWebApp\obj\Debug\net5.0\Razor\Views\Order\Success.cshtml.g.cs
+C:\Users\andre\OneDrive\Рабочий стол\Проект для собедования\WebShop\OnlineShop\OnlineShopWebApp\obj\Debug\net5.0\Razor\Views\Product\Index.cshtml.g.cs
+C:\Users\andre\OneDrive\Рабочий стол\Проект для собедования\WebShop\OnlineShop\OnlineShopWebApp\obj\Debug\net5.0\Razor\Views\Shared\Components\Cart\Cart.cshtml.g.cs
+C:\Users\andre\OneDrive\Рабочий стол\Проект для собедования\WebShop\OnlineShop\OnlineShopWebApp\obj\Debug\net5.0\Razor\Views\Shared\Footer.cshtml.g.cs
+C:\Users\andre\OneDrive\Рабочий стол\Проект для собедования\WebShop\OnlineShop\OnlineShopWebApp\obj\Debug\net5.0\Razor\Views\Shared\Header.cshtml.g.cs
+C:\Users\andre\OneDrive\Рабочий стол\Проект для собедования\WebShop\OnlineShop\OnlineShopWebApp\obj\Debug\net5.0\Razor\Views\Shared\_Layout.cshtml.g.cs
+C:\Users\andre\OneDrive\Рабочий стол\Проект для собедования\WebShop\OnlineShop\OnlineShopWebApp\obj\Debug\net5.0\Razor\Views\Shared\_ValidationScriptsPartial.cshtml.g.cs
+C:\Users\andre\OneDrive\Рабочий стол\Проект для собедования\WebShop\OnlineShop\OnlineShopWebApp\obj\Debug\net5.0\Razor\Views\_ViewImports.cshtml.g.cs
+C:\Users\andre\OneDrive\Рабочий стол\Проект для собедования\WebShop\OnlineShop\OnlineShopWebApp\obj\Debug\net5.0\Razor\Views\_ViewStart.cshtml.g.cs
+C:\Users\andre\OneDrive\Рабочий стол\Проект для собедования\WebShop\OnlineShop\OnlineShopWebApp\obj\Debug\net5.0\OnlineShopWebApp.RazorTargetAssemblyInfo.cache
+C:\Users\andre\OneDrive\Рабочий стол\Проект для собедования\WebShop\OnlineShop\OnlineShopWebApp\obj\Debug\net5.0\OnlineShopWebApp.RazorTargetAssemblyInfo.cs
+C:\Users\andre\OneDrive\Рабочий стол\Проект для собедования\WebShop\OnlineShop\OnlineShopWebApp\obj\Debug\net5.0\OnlineShopWebApp.Views.pdb
+C:\Users\andre\OneDrive\Рабочий стол\Проект для собедования\WebShop\OnlineShop\OnlineShopWebApp\obj\Debug\net5.0\OnlineShopWebApp.csproj.CopyComplete
+C:\Users\andre\OneDrive\Рабочий стол\Проект для собедования\WebShop\OnlineShop\OnlineShopWebApp\obj\Debug\net5.0\OnlineShopWebApp.dll
+C:\Users\andre\OneDrive\Рабочий стол\Проект для собедования\WebShop\OnlineShop\OnlineShopWebApp\obj\Debug\net5.0\refint\OnlineShopWebApp.dll
+C:\Users\andre\OneDrive\Рабочий стол\Проект для собедования\WebShop\OnlineShop\OnlineShopWebApp\obj\Debug\net5.0\OnlineShopWebApp.pdb
+C:\Users\andre\OneDrive\Рабочий стол\Проект для собедования\WebShop\OnlineShop\OnlineShopWebApp\obj\Debug\net5.0\OnlineShopWebApp.genruntimeconfig.cache
+C:\Users\andre\OneDrive\Рабочий стол\Проект для собедования\WebShop\OnlineShop\OnlineShopWebApp\obj\Debug\net5.0\ref\OnlineShopWebApp.dll
+C:\Users\andre\OneDrive\Рабочий стол\Проект для собедования\WebShop\OnlineShop\OnlineShopWebApp\bin\Debug\net5.0\logs\log-20240119.json

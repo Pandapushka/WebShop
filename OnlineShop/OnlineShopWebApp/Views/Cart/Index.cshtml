@@ -1,0 +1,48 @@
+﻿@model CartVM
+
+
+@if (Model == null || Model.Items.Count == 0)
+{
+    <h1>В корзине нет товаров</h1>
+}
+else
+{
+    <table class="table ">
+        <thead>
+            <tr>
+                <th scope="col">Название позиции</th>
+                <th scope="col">Стоимость позиции</th>
+                <th scope="col">Количество товара в позиции</th>                
+                <th scope="col">Общая стоимость</th>
+            </tr>
+        </thead>
+        <tbody>
+            @foreach (var item in Model.Items)
+            {
+                <tr>
+                    <td>@item.Product.Name</td>                   
+                    <td>@item.Product.Cost</td>
+                    <td>
+                        @item.Amount
+                        <a class="btn btn-outline-dark" href="/cart/add/@item.Product.Id" role="button">+</a>
+                        <a class="btn btn-outline-dark" href="/cart/delete/@item.Product.Id" role="button">-</a>
+                     </td>
+                    <td>@item.Cost</td>
+                </tr>
+            }
+        </tbody>
+        <tfoot>
+            <tr>
+                <td colspan="3">Итоговая сумма:</td>
+                <td>@Model.Cost руб.</td>
+            </tr>
+        </tfoot>
+    </table>
+    <div class="text-end">
+        <a class="btn btn-dark text-uppercase button_color" href="/order/index">Оформить заказ</a>
+        <a class="btn btn-dark text-uppercase button_color" href="/home/index">Продолжить покупки</a>
+        <a class="btn btn-dark text-uppercase button_color" href="/cart/clear">Очистить корзину</a>
+    </div>
+}
+
+

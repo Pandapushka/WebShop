@@ -1,0 +1,38 @@
+﻿@using OnlineShopWebApp.Areas.Admin.Models
+@model UserRegistration
+<form method="post">
+	<div class="container">
+		<input type="hidden" name="returnUrl" value="@Model.ReturnUrl" />
+		<h4>Регистрация</h4>
+		<div class="text-danger font-weight-bold" asp-validation-summary="All"></div>
+		<div class="row mb-3">
+			<label asp-for="Login" class="col-sm-1 col-form-label">Email</label>
+			<div class="col-sm-3">
+				<input asp-for="Login" type="email" class="form-control" placeholder="Email">
+				<span asp-validation-for="Login"></span>
+			</div>
+		</div>
+		<div class="row mb-3">
+			<label asp-for="Password" class="col-sm-1 col-form-label">Пароль</label>
+			<div class="col-sm-3">
+				<input asp-for="Password" type="password" class="form-control" placeholder="*********">
+				<span asp-validation-for="Password"></span>
+			</div>
+		</div>
+		<div class="row mb-3">
+			<label asp-for="ConfirmPassword" class="col-sm-1 col-form-label">Повторите пароль</label>
+			<div class="col-sm-3">
+				<input asp-for="ConfirmPassword" type="password" class="form-control" placeholder="*********">
+				<span asp-validation-for="ConfirmPassword"></span>
+			</div>
+		</div>
+		<div class="row mb-3">
+			<label asp-for="Phone" class="col-sm-1 col-form-label">Телефон</label>
+			<div class="col-sm-3">
+				<input asp-for="Phone" type="phone" class="form-control" placeholder="89997774455">
+				<span asp-validation-for="Phone"></span>
+			</div>
+		</div>
+		<button type="submit" class="btn btn-primary" asp-controller="login" asp-action="AddNewUser">Регистрация</button>
+	</div>
+</form>

@@ -1,0 +1,27 @@
+﻿@using OnlineShopWebApp.Areas.Admin.Models
+@model ProductViewModel
+@if (Model == null)
+{
+	<div>Такого товара нет!</div>
+}
+else
+{
+	<div class="row">
+		<div class="col-6">
+			<img class="card-img-top" src="@Model.ImagePath">
+		</div>
+		<div class="col-6">
+			<div class="card-body">
+				<h5 class="text-center text-secondary">@Model.Name</h5>
+				<h5>@Model.Cost</h5>
+				<h5>@Model.Description</h5>
+			</div>
+			<div class="footer">
+				<a class="btn  btn-secondary button_color mr-2 btn-lg btn-block" href="/cart/add/@Model.Id" role="button">
+					<h6 class="text-white font-weight-light">Добавить в корзину</h6>
+				</a>
+				<a class="btn  btn-secondary mr-2 btn-lg btn-block" href="/home/index" role="button">Продолжить покупки</a>
+			</div>
+		</div>
+	</div>
+}

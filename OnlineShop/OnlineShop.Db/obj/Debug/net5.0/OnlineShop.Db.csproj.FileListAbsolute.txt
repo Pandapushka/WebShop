@@ -1,0 +1,30 @@
+C:\Users\andre\OneDrive\Рабочий стол\OnlineShop_Asp.Net Core\OnlineShop\OnlineShop.Db\bin\Debug\net5.0\OnlineShop.Db.deps.json
+C:\Users\andre\OneDrive\Рабочий стол\OnlineShop_Asp.Net Core\OnlineShop\OnlineShop.Db\bin\Debug\net5.0\OnlineShop.Db.runtimeconfig.json
+C:\Users\andre\OneDrive\Рабочий стол\OnlineShop_Asp.Net Core\OnlineShop\OnlineShop.Db\bin\Debug\net5.0\OnlineShop.Db.runtimeconfig.dev.json
+C:\Users\andre\OneDrive\Рабочий стол\OnlineShop_Asp.Net Core\OnlineShop\OnlineShop.Db\bin\Debug\net5.0\OnlineShop.Db.dll
+C:\Users\andre\OneDrive\Рабочий стол\OnlineShop_Asp.Net Core\OnlineShop\OnlineShop.Db\bin\Debug\net5.0\OnlineShop.Db.pdb
+C:\Users\andre\OneDrive\Рабочий стол\OnlineShop_Asp.Net Core\OnlineShop\OnlineShop.Db\obj\Debug\net5.0\OnlineShop.Db.csproj.AssemblyReference.cache
+C:\Users\andre\OneDrive\Рабочий стол\OnlineShop_Asp.Net Core\OnlineShop\OnlineShop.Db\obj\Debug\net5.0\OnlineShop.Db.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\andre\OneDrive\Рабочий стол\OnlineShop_Asp.Net Core\OnlineShop\OnlineShop.Db\obj\Debug\net5.0\OnlineShop.Db.AssemblyInfoInputs.cache
+C:\Users\andre\OneDrive\Рабочий стол\OnlineShop_Asp.Net Core\OnlineShop\OnlineShop.Db\obj\Debug\net5.0\OnlineShop.Db.AssemblyInfo.cs
+C:\Users\andre\OneDrive\Рабочий стол\OnlineShop_Asp.Net Core\OnlineShop\OnlineShop.Db\obj\Debug\net5.0\OnlineShop.Db.csproj.CoreCompileInputs.cache
+C:\Users\andre\OneDrive\Рабочий стол\OnlineShop_Asp.Net Core\OnlineShop\OnlineShop.Db\obj\Debug\net5.0\OnlineShop.Db.dll
+C:\Users\andre\OneDrive\Рабочий стол\OnlineShop_Asp.Net Core\OnlineShop\OnlineShop.Db\obj\Debug\net5.0\refint\OnlineShop.Db.dll
+C:\Users\andre\OneDrive\Рабочий стол\OnlineShop_Asp.Net Core\OnlineShop\OnlineShop.Db\obj\Debug\net5.0\OnlineShop.Db.pdb
+C:\Users\andre\OneDrive\Рабочий стол\OnlineShop_Asp.Net Core\OnlineShop\OnlineShop.Db\obj\Debug\net5.0\OnlineShop.Db.genruntimeconfig.cache
+C:\Users\andre\OneDrive\Рабочий стол\OnlineShop_Asp.Net Core\OnlineShop\OnlineShop.Db\obj\Debug\net5.0\ref\OnlineShop.Db.dll
+C:\Users\andre\OneDrive\Рабочий стол\Проект для собедования\WebShop\OnlineShop\OnlineShop.Db\bin\Debug\net5.0\OnlineShop.Db.deps.json
+C:\Users\andre\OneDrive\Рабочий стол\Проект для собедования\WebShop\OnlineShop\OnlineShop.Db\bin\Debug\net5.0\OnlineShop.Db.runtimeconfig.json
+C:\Users\andre\OneDrive\Рабочий стол\Проект для собедования\WebShop\OnlineShop\OnlineShop.Db\bin\Debug\net5.0\OnlineShop.Db.runtimeconfig.dev.json
+C:\Users\andre\OneDrive\Рабочий стол\Проект для собедования\WebShop\OnlineShop\OnlineShop.Db\bin\Debug\net5.0\OnlineShop.Db.dll
+C:\Users\andre\OneDrive\Рабочий стол\Проект для собедования\WebShop\OnlineShop\OnlineShop.Db\bin\Debug\net5.0\OnlineShop.Db.pdb
+C:\Users\andre\OneDrive\Рабочий стол\Проект для собедования\WebShop\OnlineShop\OnlineShop.Db\obj\Debug\net5.0\OnlineShop.Db.csproj.AssemblyReference.cache
+C:\Users\andre\OneDrive\Рабочий стол\Проект для собедования\WebShop\OnlineShop\OnlineShop.Db\obj\Debug\net5.0\OnlineShop.Db.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\andre\OneDrive\Рабочий стол\Проект для собедования\WebShop\OnlineShop\OnlineShop.Db\obj\Debug\net5.0\OnlineShop.Db.AssemblyInfoInputs.cache
+C:\Users\andre\OneDrive\Рабочий стол\Проект для собедования\WebShop\OnlineShop\OnlineShop.Db\obj\Debug\net5.0\OnlineShop.Db.AssemblyInfo.cs
+C:\Users\andre\OneDrive\Рабочий стол\Проект для собедования\WebShop\OnlineShop\OnlineShop.Db\obj\Debug\net5.0\OnlineShop.Db.csproj.CoreCompileInputs.cache
+C:\Users\andre\OneDrive\Рабочий стол\Проект для собедования\WebShop\OnlineShop\OnlineShop.Db\obj\Debug\net5.0\OnlineShop.Db.dll
+C:\Users\andre\OneDrive\Рабочий стол\Проект для собедования\WebShop\OnlineShop\OnlineShop.Db\obj\Debug\net5.0\refint\OnlineShop.Db.dll
+C:\Users\andre\OneDrive\Рабочий стол\Проект для собедования\WebShop\OnlineShop\OnlineShop.Db\obj\Debug\net5.0\OnlineShop.Db.pdb
+C:\Users\andre\OneDrive\Рабочий стол\Проект для собедования\WebShop\OnlineShop\OnlineShop.Db\obj\Debug\net5.0\OnlineShop.Db.genruntimeconfig.cache
+C:\Users\andre\OneDrive\Рабочий стол\Проект для собедования\WebShop\OnlineShop\OnlineShop.Db\obj\Debug\net5.0\ref\OnlineShop.Db.dll
